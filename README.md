@@ -1,5 +1,5 @@
 # TinyProjects
-series of small projects
+一些小项目
 
 项目名称 | 简介
 ---- | ----
