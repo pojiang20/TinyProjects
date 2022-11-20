@@ -7,6 +7,11 @@ miniShell | c语言实现shell的基本功能
 gee | 简单的路由框架，前缀树解析路径、实现中间件Next()功能
 [geeCache](https://github.com/pojiang20/Geecache) | 简单的分布式缓存，LRU缓存淘汰、一致性哈希处理请求
 
+#### raft相关
+项目名称 | 简介
+---- | ----
+[elibenRaft](https://github.com/pojiang20/elibenRaft) | 学习来源于[Eli Bendersky's website](https://eli.thegreenplace.net/2020/implementing-raft-part-1-elections/)博客中的Implementing Raft系列文章
+
 ## 模型 
 工作中的一些简单的结构/模型记录
 #### splitTool
